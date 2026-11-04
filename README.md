@@ -10,8 +10,8 @@ I am a pragmatically driven software developer with a strong focus on backend ar
 
 ### Tech Stack
 * **Languages:** Python, Java, C#, C, Kotlin , SQL, HTML, CSS
-* **Backend & Databases:** MySQL, SQL Server, REST APIs, Java Servlets
-* **Tools & Infrastructure:** Docker, Git/GitLab, Linux (Ubuntu/Parrot OS), Virtualization (/VirtualBox/UTM)
+* **Backend & Databases:** MySQL, SQL Server, DBeaver, Java Servlets
+* **Tools & Infrastructure:** Docker, Git, Linux (Ubuntu/Parrot OS), Virtualization (VirtualBox/UTM)
 
 ### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/ahmed-al-majmaie-24397623b/
