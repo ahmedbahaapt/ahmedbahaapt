@@ -17,7 +17,7 @@ I am a pragmatically driven software developer with a strong focus on backend ar
 
 ### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/ahmed-al-majmaie-24397623b/
-* **Nationality: Portuguese
+* Nationality: Portuguese
 * **Languages:** 🇬🇧 English | 🇵🇹 Portuguese | 🇸🇦 Arabic | 🇹🇷 Turkish
 
 ---
