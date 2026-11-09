@@ -7,6 +7,8 @@ I am a pragmatically driven software developer with a strong focus on backend ar
 ### Education & Certifications
 * **BSc in Software Engineering** - Universidade Lusófona do Porto (*Expected Graduation: 2027*)
 * **Jovem + Digital Web Programming (350h)** - Intensive practical training covering C/C++, SQL, Software Engineering, and Web Development.
+**NDC Porto - 2025** - Volunteer crew member, engaging with the global software development community.
+**NDC Porto - 2025**
 
 ### Tech Stack
 * **Languages:** Python, Java, C, SQL, HTML5, CSS3
