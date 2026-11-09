@@ -9,9 +9,9 @@ I am a pragmatically driven software developer with a strong focus on backend ar
 * **Jovem + Digital Web Programming (350h)** - Intensive practical training covering C/C++, SQL, Software Engineering, and Web Development.
 
 ### Tech Stack
-* **Languages:** Python, Java, C#, C, Kotlin , SQL, HTML, CSS
+* **Languages:** Python, Java, C, SQL, HTML5, CSS3
 * **Backend & Databases:** MySQL, SQL Server, DBeaver, Java Servlets
-* **Tools & Infrastructure:** Docker, Git, Linux (Ubuntu/Parrot OS), Virtualization (VirtualBox/UTM)
+* **Tools & Infrastructure:** Git, Linux (Ubuntu/Parrot OS), Virtualization (VirtualBox/UTM)
 
 ### Let's Connect
 * **LinkedIn:** https://www.linkedin.com/in/ahmed-al-majmaie-24397623b/
