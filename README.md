@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Ahmed Al-Majmaie👋
 
 ```java
-public class AhmedAlMajmaie {
+public class Ahmed {
     private final String role = "Software Engineering Student";
     private final String nationality = "Portuguese";
     private final String location = "Porto, Portugal";
