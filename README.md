@@ -14,7 +14,7 @@ public class Ahmed {
 
 ### 🎓 Education, Certifications & Events
 * **BSc in Software Engineering** — Universidade Lusófona do Porto *(Expected Graduation: 2027)*
-* **Jovem + Digital Web Programming (350h)** — Intensive practical training covering C/C++, SQL, Software Engineering, and Web Development.
+* **Jovem + Digital Web Programming (350h)** — Intensive practical training covering C/C++, SQL, Software Engineering, and Web Development *(2026)*.
 * **NDC Porto 2025 & 2026** — Volunteer crew member & Conference Participant, engaging with the global software development community.
 * **Portuguese Order of Engineers** — Admitted as a Student Member in Software Engineering.
 
